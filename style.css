@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.table1 {
+  width: 620px;
+  font-family: 'Roboto', sans-serif;
+  border: 2px solid #FFC107;
+  border-collapse: collapse;
+  margin: 30px;
+}
+th {
+  background: #FFC107;
+}
+td {
+  background: #52057B ;
+  color: white;
+  text-align: left !important;
+}
+.tams {
+  filter: invert(10%);
+}
+th, td {
+  border: 1px solid #FFC107;
+  border-collapse: collapse;
+  padding: 17px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  margin: 30px;
+}
+input {
+  margin-left: 47px;
+}
+button {
+  margin-left: 120px;
+}
